@@ -1,5 +1,7 @@
 package com.instruments.ocarina.ui;
 
-public interface OcarinaUI {
-	// TODO: This.
+import android.app.Activity;
+
+public abstract class OcarinaUI extends Activity {
+	
 }

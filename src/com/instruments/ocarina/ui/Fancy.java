@@ -1,7 +1,9 @@
 package com.instruments.ocarina.ui;
 
-import android.app.Activity;
+public class Fancy extends OcarinaUI {
 
-public class Fancy extends Activity implements OcarinaUI {
+	public Fancy() {
+		// TODO Auto-generated constructor stub
+	}
 
 }
